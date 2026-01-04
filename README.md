@@ -1,4 +1,4 @@
-## Hi, I’m Varad 👋
+## Yo! Its Varad
 
 I’m a computer science student exploring **reflective and self-evaluating AI systems**.
 
