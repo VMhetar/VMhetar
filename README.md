@@ -3,7 +3,6 @@
 I’m a computer science student exploring **reflective and self-evaluating AI systems**.
 
 My interests focus on:
-- world models and belief revision
 - agents that simulate consequences before acting
 - post-training intelligence (no fine-tuning)
 - modular cognitive architectures using MCP
