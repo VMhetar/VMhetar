@@ -9,4 +9,4 @@ My interests focus on:
 
 I’m less interested in prompt engineering and more interested in **how intelligence reasons, evaluates, and refuses to act when uncertain**.
 
-🔗 Personal site: https://vmhetar.github.io
+Linkedin here: https://www.linkedin.com/in/varad-mhetar-723b30306/
